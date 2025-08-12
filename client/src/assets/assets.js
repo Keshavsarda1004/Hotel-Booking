@@ -1,5 +1,4 @@
 import logo from './logo.svg'
-import calivra_logo from './calivra_logo.svg'
 import searchIcon from './searchIcon.svg'
 import userIcon from './userIcon.svg'
 import calenderIcon from './calenderIcon.svg'
@@ -42,7 +41,6 @@ import totalRevenueIcon from "./totalRevenueIcon.svg";
 
 export const assets = {
     logo,
-    calivra_logo,
     searchIcon,
     userIcon,
     calenderIcon,
@@ -77,10 +75,10 @@ export const assets = {
 }
 
 export const cities = [
-    "Delhi",
-    "Hyderabad",
-    "Kolkata",
-    "Mumbai",
+    "Dubai",
+    "Singapore",
+    "New York",
+    "London",
 ];
 
 // Exclusive Offers Dummy Data
